@@ -1,0 +1,6 @@
+https://trackers.nekosunevr.co.uk:443/announce
+https://trackers.nekosunevr.co.uk/announce
+http://trackers.nekosunevr.co.uk/announce
+https://trackers.nekosunevr.co.uk:443/announce.php
+https://trackers.nekosunevr.co.uk/announce.php
+http://trackers.nekosunevr.co.uk/announce.php
